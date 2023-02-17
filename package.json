@@ -23,7 +23,7 @@
   "optionalDependencies": {
     "canvas": "^2.9.3",
     "sharp": "~0.24.1",
-    "nightscout": "14.2.11"
+    "nightscout": "15.0.0"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^2.6.0",
